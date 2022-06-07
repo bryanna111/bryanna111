@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bryanna.
-- 👀 I’m interested in machine learning, spectral analysis, and simulations in python.
-- 🌱 I’m currently learning n-body simulations and how to automate the identifcation of absorption lines in quasar spectra.
-- 💞️ I’m looking to collaborate on n-body simulation projects in particle and astrophyics. 
+- 👀 I’m interested in machine learning, artificial intelligence, and data science using python.
+- 🌱 I’m currently working as a NASA headquarters intern.
 - 📫 How to reach me: bgutie14@asu.edu
 
 <!---
