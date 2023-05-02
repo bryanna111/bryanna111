@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bryanna.
 - 👀 I’m interested in machine learning, artificial intelligence, and data science using python.
-- 🌱 I’m currently working as a NASA headquarters intern.
+- 🌱 I’m a pervious NASA headquarters intern.
+- I am currently looking for a role in data analytics. 
 - 📫 How to reach me: bgutie14@asu.edu
 
 <!---
